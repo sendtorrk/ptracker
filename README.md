@@ -1,26 +1,30 @@
-# Print Tracker (ptracker)
-
-Print Tracker
+# Print Tracker
 
 ## Install the dependencies
-```bash
+```
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
+## Development
+```
+quasar dev -m ios
 ```
 
-### Lint the files
-```bash
-npm run lint
+## Development (launch Xcode)
+```
+quasar dev -m ios --ide
 ```
 
-### Build the app for production
-```bash
-quasar build
+## Release
+```
+quasar build -m ios
 ```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
+## Release (launch Xcode)
+```
+quasar build -m ios --ide
+```
+
+## Debugging 
+
+Open Safari > Develop
