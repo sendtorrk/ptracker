@@ -1,6 +1,6 @@
 # Print Tracker
 
-A hybrid mobile app to track number of pages printed for each billing period.
+A hybrid [mobile app](https://github.com/sendtorrk/ptracker/wiki) to track number of pages printed for each billing period.
 
 Powered by:
 
@@ -37,3 +37,8 @@ quasar build -m ios --ide
 ## Debugging 
 
 Open Safari > Develop
+
+## Screenshots
+
+See [Wiki](https://github.com/sendtorrk/ptracker/wiki) for screenshots
+
