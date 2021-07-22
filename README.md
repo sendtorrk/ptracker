@@ -1,6 +1,15 @@
 # Print Tracker
 
-## Install the dependencies
+A hybrid mobile app to track number of pages printed for each billing period.
+
+Powered by:
+
+* Apache Cordova
+* Quasar Framework
+* Vue.js
+* Moment.js
+
+## Install dependencies
 ```
 npm install
 ```
